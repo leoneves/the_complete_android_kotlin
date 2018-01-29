@@ -1,4 +1,7 @@
 
 fun main(args:Array<String>) {
-    print("Welcome to Kotlin")
+    var first_name:String
+    first_name = "Leo"
+    var last_name = "Neves"
+    print("Welcome to Kotlin, $first_name $last_name")
 }
